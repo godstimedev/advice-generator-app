@@ -33,7 +33,7 @@
     margin-right: auto;
     border-radius: 10px;
   }
-  .container > h2 {
+  .container > h1 {
     color: var(--Neon-Green);
     text-transform: uppercase;
     font-size: small;
@@ -72,6 +72,7 @@
   .dice:hover {
     box-shadow: 0 0 25px hsl(150, 100%, 66%, 0.7);
     cursor: pointer;
+    transition: all 200ms;
   }
 }
 
