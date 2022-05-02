@@ -16,7 +16,7 @@
 
 @media (min-width: 375px) {
   body {
-    font-family: Manrope;
+    font-family: "Manrope";
     height: 100vh;
     display: flex;
     flex-direction: column;
